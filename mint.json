@@ -1,15 +1,15 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "DegenHub",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/degenhub_transparent.png",
+    "light": "/logo/degenhub_transparent.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "favicon1.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#FFB86C",
+    "light": "#FFB86C",
+    "dark": "#FFB86C",
     "anchors": {
       "from": "#0D9373",
       "to": "#07C983"
@@ -17,75 +17,51 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "8==D 💦💦💦",
+      "url": "https://degenhub.wtf/"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Launch App",
+    "url": "https://degenhub.wtf/"
   },
   "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
+    
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Home",
+      "icon": "house",
+      "url": "http://localhost:3000/Introduction"
+    },
+    {
+      "name": "Pron",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "http://localhost:3000/wtf"
     },
     {
       "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "icon": "discord",
+      "url": "https://discord.com/invite/nAqCWR9S"
     },
     {
-      "name": "Blog",
+      "name": "Launch App",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://degenhub.wtf/"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "General",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
-      ]
-    },
-    {
-      "group": "Essentials",
-      "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
-      ]
-    },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "Introduction",
+        "Usage"
       ]
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "twitter": "https://twitter.com/degenhub_wtf",
+    "discord": "https://discord.com/invite/nAqCWR9S",
+    "telegram": "https://t.me/degenhubwtf"
   }
 }
