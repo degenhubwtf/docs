@@ -32,12 +32,12 @@
     {
       "name": "Home",
       "icon": "house",
-      "url": "http://localhost:3000/Introduction"
+      "url": "https://docs.degenhub.wtf/introduction"
     },
     {
       "name": "Pron",
       "icon": "book-open-cover",
-      "url": "http://localhost:3000/wtf"
+      "url": "https://docs.degenhub.wtf/wtf"
     },
     {
       "name": "Community",
